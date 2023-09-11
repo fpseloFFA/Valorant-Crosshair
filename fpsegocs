@@ -1,0 +1,17 @@
+Crosshair
+Outlines - Off
+Center Dot - On
+Center Dot Opacity - (0.7 - 1.0)
+Center Dot Thickness - (2.0 - 3.0)
+
+Inner Lines
+Show Inner Lines - Off
+
+Outer Lines
+Show Outer Lines - On
+Outer Line Opacity - (0.7 - 1.0)
+Outer Line Length - (5.0 - 7.0)
+Outer Line Thickness - 3
+Outer Line Offset - 5
+Movement Error - Off
+Firing Error - (Off or On)  
